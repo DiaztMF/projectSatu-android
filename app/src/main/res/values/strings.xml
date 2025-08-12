@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="profile_name">Diazt Muhammad Firmansyah</string>
+    <string name="button1">TOAST</string>
+    <string name="angka">0</string>
+    <string name="button2">COUNT</string>
+</resources>
